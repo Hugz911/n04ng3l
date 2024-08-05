@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    margin: 50px auto;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: sans-serif;
+    color: #333;
+}
+
+p {
+    font-size: 1.5rem;
+    color: #666;
+}
